@@ -1,0 +1,166 @@
+body {
+	height: 2000px;
+	width: 1440;
+}
+/*header start*/
+.header {
+	padding: 20px 15px;
+	background-color: lightgrey;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 999;
+}
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+	color: #ff1a1a;
+	margin-right: 80px;
+}
+.nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li {
+	display: inline-block;
+	margin-right: 18px;
+	color: #8c8c8c;
+}
+/*header end*/
+
+/*section-1-start*/
+.section-1 {
+	margin-top: 57.42px;
+}
+.article-title {
+	font-size: 22px;
+	margin-top: 90px;
+	margin-bottom: 25px;
+	margin-left: 140px;
+	font-family: 'Oswald', sans-serif;
+}
+.image-1 {
+	display: inline-block;
+	vertical-align: middle;
+	width: 2;
+	height: 26;
+	font-size: 360px;
+	margin-left: 120px;
+	padding: 5px 10px 15px 15px
+}
+.image-2 {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 360px;
+	width: 280;
+	height: 40;
+	padding: 5px 10px 15px 20px
+}
+
+.section-1-wrapper {
+	position: relative;
+	display: inline-block;
+}
+.section-1-title {
+	position: absolute;
+	font-size: 15px;
+	color: white;
+	top: 20px;
+	left: 180px;
+}
+.h3-title {
+	position: absolute;
+	color: white;
+	top: 20px;
+	left: 40px;
+}
+
+.p {
+	display: block;
+	vertical-align: middle;
+	color: #bfbfbf;
+	font-size: 15px;
+	margin: 76px 180px 66px 120px;
+}
+.time {
+	position: absolute;
+	display: block;
+	vertical-align: middle;
+	margin: 16px;
+}
+.time-text {
+	position: absolute;
+	display: block;
+	vertical-align: middle;
+	font-size: 16px;
+	width: ;
+	color: #bfbfbf;
+}
+/*section-1-end*/
+
+/*section-2-start*/
+.section-2-wrapper {
+   position: relative;
+   display: inline-block;
+}
+.image-3 {
+	display: block;
+	vertical-align: middle;
+	height: 210;
+	width: 360;
+	margin: 40px 140px 40px;
+}
+.position {
+	position: absolute;
+	display: inline-block;
+}
+.item-4 {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 40px 20px 80px ;
+}
+.item-5 {
+	display: block;
+	vertical-align: middle;
+    margin: 40px 20px 80px;
+}
+
+/*section-2-end*/
+/*footer start*/
+.footer {
+	padding: 20px 15px;
+	background-color: #999999;
+	height: 197;
+	width: 1440px;
+}
+.footer-wrapper {
+	position: relative;
+	display: inline-block;
+	width: 1440px;
+}
+.logo-1 {
+	display: inline-block;
+	vertical-align: middle;
+	color: white;
+	margin: 58px 180px 126px 40px;
+}
+.h2 {
+	display: inline-block;
+	vertical-align: middle;
+	color: white;
+	width: 200px;
+	height: 90px;
+	margin: 58px 280p 58px 30px;
+}
+.img {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 16px;
+	margin: 58px 16px 125px;
+}
+
+/*footer end*/
+
+
+
+
